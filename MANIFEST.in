@@ -1,0 +1,4 @@
+include README.rst
+include LICENSE.txt
+include musicxml_toolbox/test/data/one_part/*
+include musicxml_toolbox/test/data/two_parts/*
